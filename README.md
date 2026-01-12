@@ -79,6 +79,4 @@ Run preprocessing and training cells
 
 Evaluate the model and save results
 
-## 💾 Model Output
-```bash
-inception_model_v3.keras
+
