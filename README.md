@@ -70,3 +70,15 @@ Italian class labels were translated to English for readability.
 ## ▶️ How to Run
 ```bash
 pip install tensorflow kaggle scikit-learn matplotlib
+
+Upload kaggle.json
+
+Download and unzip the Animals-10 dataset
+
+Run preprocessing and training cells
+
+Evaluate the model and save results
+
+## 💾 Model Output
+```bash
+inception_model_v3.keras
